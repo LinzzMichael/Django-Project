@@ -1,0 +1,696 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"temp",
+				"temp1"
+			],
+			[
+				"train",
+				"train_dataset_fp\tstatement"
+			],
+			[
+				"train_datas",
+				"train_dataset_url"
+			],
+			[
+				"im",
+				"feature_importances_\tfunction"
+			],
+			[
+				"label",
+				"labels_train\tstatement"
+			],
+			[
+				"data",
+				"data_dict\tstatement"
+			],
+			[
+				"features_",
+				"features_train\tstatement"
+			],
+			[
+				"feat",
+				"features"
+			],
+			[
+				"fo",
+				"format\tfunction"
+			],
+			[
+				"acc",
+				"accuracy_score\tfunction"
+			],
+			[
+				"fea",
+				"features_test\tstatement"
+			],
+			[
+				"min_s",
+				"min_samples_split\tparam"
+			],
+			[
+				"de",
+				"DecisionTreeClassifier\tclass"
+			],
+			[
+				"lab",
+				"labels_test\tstatement"
+			],
+			[
+				"s",
+				"s\tparam"
+			],
+			[
+				"low",
+				"lower"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"bo",
+				"border-left"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"a",
+				"a\tTag"
+			],
+			[
+				"ad",
+				"audio\tTag"
+			],
+			[
+				"pso",
+				"post_comment\tfunction"
+			],
+			[
+				"COmm",
+				"CommentForm\tclass"
+			],
+			[
+				"CO",
+				"CommentForm\tclass"
+			],
+			[
+				"ca",
+				"category\tfunction"
+			],
+			[
+				"Post",
+				"Post\tclass"
+			],
+			[
+				"post",
+				"post_list"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"at",
+				"article_list"
+			],
+			[
+				"c",
+				"ContactForm\tclass"
+			],
+			[
+				"ren",
+				"render"
+			],
+			[
+				"rend",
+				"render_to_response"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"cont",
+				"context"
+			],
+			[
+				"it",
+				"items"
+			],
+			[
+				"dis",
+				"display_meta\tfunction"
+			],
+			[
+				"Htt",
+				"HttpResponse\tmodule"
+			],
+			[
+				"http",
+				"HttpResponse\timport"
+			],
+			[
+				"dat",
+				"datetime\tclass"
+			],
+			[
+				"Tag",
+				"TagInline\tclass"
+			],
+			[
+				"COn",
+				"ContactAdmin\tclass"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"se",
+				"search-forms"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"fil",
+				"filter\tfunction"
+			],
+			[
+				"si",
+				"signature"
+			],
+			[
+				"pa",
+				"parameters"
+			],
+			[
+				"pr",
+				"permutations\tclass"
+			],
+			[
+				"prima",
+				"primaryKey\tstatement"
+			],
+			[
+				"pri",
+				"primary_key\tparam"
+			],
+			[
+				"create",
+				"create_pool"
+			],
+			[
+				"curren",
+				"currentThread\tfunction"
+			],
+			[
+				"cu",
+				"currentThread\tfunction"
+			],
+			[
+				"en",
+				"environ\tparam"
+			],
+			[
+				"use",
+				"user1"
+			],
+			[
+				"ran",
+				"random\tstatement"
+			],
+			[
+				"P",
+				"Popen\tclass"
+			],
+			[
+				"ra",
+				"random\tstatement"
+			],
+			[
+				"sre",
+				"search_dir"
+			],
+			[
+				"as",
+				"assertEqual"
+			],
+			[
+				"asss",
+				"assertSetEqual\tfunction"
+			],
+			[
+				"form",
+				"from\tkeyword"
+			],
+			[
+				"W",
+				"Weekday\tclass"
+			],
+			[
+				"func",
+				"functools\tmodule"
+			],
+			[
+				"tu",
+				"True\tinstance"
+			],
+			[
+				"fi",
+				"filter\tfunction"
+			],
+			[
+				"str",
+				"str2float\tfunction"
+			],
+			[
+				"file",
+				"files\tstatement"
+			],
+			[
+				"url",
+				"urlparse\timport"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"he",
+				"headers"
+			],
+			[
+				"hea",
+				"headers_data"
+			],
+			[
+				"com_line",
+				"com_line_now\tstatement"
+			],
+			[
+				"tiem",
+				"time_now\tstatement"
+			],
+			[
+				"maked",
+				"makedirs\tfunction"
+			],
+			[
+				"le",
+				"length\tstatement"
+			],
+			[
+				"requs",
+				"request\tstatement"
+			],
+			[
+				"L",
+				"L2\tstatement"
+			],
+			[
+				"nose",
+				"nose_cascade\tstatement"
+			],
+			[
+				"fc",
+				"face_detect\tfunction"
+			],
+			[
+				"video",
+				"VideoWriter_fourcc"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 458.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/linzhiqiang/Documents/workspace/djangoProject/mysite/mysite/settings.py",
+		"/Users/linzhiqiang/Documents/workspace/djangoProject/test/Helloworld/Helloworld/settings.py",
+		"/Users/linzhiqiang/Desktop/未命名文件夹 2/dataComputer.py",
+		"/Users/linzhiqiang/Desktop/未命名文件夹/dataComputer.py",
+		"/Users/linzhiqiang/Documents/workspace/tensorflowTest/eagerExectionTest.py",
+		"/Users/linzhiqiang/Downloads/4-配套程序/库移植样例程序/11-（德飞莱）尼莫M3S-TFTLCD/MY/tft/lcd.c",
+		"/Users/linzhiqiang/Documents/workspace/tensorflowTest/tensorflowTest.py",
+		"/Users/linzhiqiang/Desktop/tensorflowTest.py",
+		"/Users/linzhiqiang/Documents/workspace/machine-learning/enron_mail/final_project/tester.py",
+		"/Users/linzhiqiang/Desktop/ocr.py",
+		"/Users/linzhiqiang/Desktop/machine learning/ud120-projects-master/tools/parse_out_email_text.py",
+		"/Users/linzhiqiang/Desktop/machine learning/ud120-projects-master/outliers/enron_outliers.py",
+		"/Users/linzhiqiang/Desktop/test.tex",
+		"/Users/linzhiqiang/Desktop/machine learning/ud120-projects-master/choose_your_own/your_algorithm.py",
+		"/Users/linzhiqiang/Desktop/Tiranic.py",
+		"/Users/linzhiqiang/Desktop/machine learning/ud120-projects-master/datasets_questions/explore_enron_data.py",
+		"/Users/linzhiqiang/Desktop/test.c",
+		"/Users/linzhiqiang/Desktop/machine learning/ud120-projects-master/tools/startup.py",
+		"/Users/linzhiqiang/Desktop/machine learning/ud120-projects-master/naive_bayes/nb_author_id.py",
+		"/Users/linzhiqiang/Desktop/machine learning/ud120-projects-master/decision_tree/dt_author_id.py",
+		"/Users/linzhiqiang/Desktop/machine learning/ud120-projects-master/tools/email_preprocess.py",
+		"/Users/linzhiqiang/Downloads/pi-home-surveillance 2/pi_surveillance.py",
+		"/Users/linzhiqiang/Documents/test.py",
+		"/test.py",
+		"/Users/linzhiqiang/Documents/display.html",
+		"/Users/linzhiqiang/Desktop/test.html",
+		"/Users/linzhiqiang/Desktop/test2.html",
+		"/Users/linzhiqiang/Documents/git/learngit/html/baiduPratice/baiduPratice.html",
+		"/Users/linzhiqiang/Documents/hello.html",
+		"/Users/linzhiqiang/Desktop/test2.aspx",
+		"/Users/linzhiqiang/Documents/git/learngit/html/first/index.css",
+		"/Users/linzhiqiang/Documents/git/learngit/html/first/index.html",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/Blog/templates/pratice.html",
+		"/Users/linzhiqiang/Documents/git/learngit/html/index.html",
+		"/Users/linzhiqiang/Documents/git/learngit/html/index.css",
+		"/Users/linzhiqiang/Documents/git/learngit/html/baiduPractice/baiduPratice.html",
+		"/Users/linzhiqiang/Documents/git/learngit/html/baiduPractice/baiduCss.css",
+		"/Users/linzhiqiang/Documents/git/learngit/html/baiduCss.css",
+		"/Users/linzhiqiang/Documents/git/learngit/html/baiduPratice.html",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/Blog/templates/mystyle.css",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/django_auth_example/django_auth_example/urls.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/django_auth_example/users/urls.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/django_auth_example/users/admin.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/django_auth_example/users/views.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/django_auth_example/users/apps.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/django_auth_example/users/forms.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/django_auth_example/users/models.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/django_auth_example/django_auth_example/settings.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/django_auth_example/django_auth_example/wsgi.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/django_auth_example/users/migrations/__init__.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/Blog/templates/base.html",
+		"/Users/linzhiqiang/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/linzhiqiang/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/Blog/comments/admin.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/Blog/comments/urls.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/Blog/comments/views.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/Blog/comments/forms.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/Blog/BlogModel/admin.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/Blog/BlogModel/templatetags/blog_tags.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/Blog/BlogModel/views.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/Blog/Blog/urls.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/Blog/BlogModel/urls.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/Blog/BlogModel/models.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/Blog/comments/models.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/Blog/Blog/settings.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/Blog/templates/index.html",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/Blog/django-blog-tutorial-templates-master/index.html",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/testdj/Blog/Blog/settings.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/Blog/Blog/models.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/HelloWorld/HelloWorld/urls.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/HelloWorld/HelloWorld/contact.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/HelloWorld/HelloWorld/form.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/HelloWorld/templates/contact_form.html",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/HelloWorld/HelloWorld/view.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/HelloWorld/HelloWorld/settings.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/HelloWorld/templates/post.html",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/HelloWorld/templates/display.html",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/HelloWorld/HelloWorld/search.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/HelloWorld/HelloWorld/forms.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/HelloWorld/templates/search_form.html",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/HelloWorld/templates/search_result.html",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/testdj/HelloWorld/TestModel/models.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/testdj/HelloWorld/TestModel/admin.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/testdj/HelloWorld/HelloWorld/search.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/HelloWorld/templates/hello.html",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/testdj/HelloWorld/HelloWorld/urls.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/testdj/HelloWorld/templates/search_form.html",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/testdj/HelloWorld/templates/post.html",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/testdj/HelloWorld/HelloWorld/search2.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/testdj/HelloWorld/templates/hello.html",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/testdj/HelloWorld/HelloWorld/settings.py",
+		"/Users/linzhiqiang/Documents/git/learngit/Diango_Web/testdj/HelloWorld/HelloWorld/testdb.py",
+		"/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/pymysql/err.py",
+		"/Users/linzhiqiang/Documents/git/learngit/awesome-python-webapp/www/test.py",
+		"/Users/linzhiqiang/Documents/git/learngit/python/Pratice/app.py",
+		"/Users/linzhiqiang/Documents/Python/廖雪峰教程练习/AsynchronousIO/CoroutinePratice.py",
+		"/Users/linzhiqiang/Documents/Python/廖雪峰教程练习/web/app.py",
+		"/Users/linzhiqiang/Documents/Python/廖雪峰教程练习/web/appByModel.py",
+		"/Users/linzhiqiang/Documents/Python/廖雪峰教程练习/web/WSGIServerPractice copy.py",
+		"/Users/linzhiqiang/Documents/Python/廖雪峰教程练习/web/WSGIPractice.py",
+		"/Users/linzhiqiang/Documents/Python/廖雪峰教程练习/network/socketPrtice.py",
+		"/Users/linzhiqiang/Documents/Python/廖雪峰教程练习/network/socket.py",
+		"/Users/linzhiqiang/Documents/Python/廖雪峰教程练习/multipTask/subthread.py",
+		"/Users/linzhiqiang/Documents/Python/廖雪峰教程练习/multipTask/multiprocess_1.py",
+		"/Users/linzhiqiang/Documents/Python/廖雪峰教程练习/multipTask/multiprocess.py",
+		"/Users/linzhiqiang/Documents/Python/廖雪峰教程练习/IO/search_Dir.py",
+		"/Users/linzhiqiang/Documents/Python/廖雪峰教程练习/单元测试/mydict_test.py",
+		"/Users/linzhiqiang/Documents/Python/廖雪峰教程练习/单元测试/mydict.py",
+		"/Users/linzhiqiang/Documents/Python/廖雪峰教程练习/multipTask/multiprocessing.py",
+		"/Users/linzhiqiang/Desktop/pi-home-surveillance/pi_surveillance.py",
+		"/Users/linzhiqiang/Desktop/pi-home-surveillance/face_dectect.py",
+		"/Users/linzhiqiang/Desktop/pi-home-surveillance/test.py",
+		"/Users/linzhiqiang/Documents/Python/廖雪峰教程练习/map_reduce.py",
+		"/Users/linzhiqiang/Documents/Python/廖雪峰教程练习/sort_pratice.py",
+		"/Users/linzhiqiang/Desktop/pi-home-surveillance/yeelink.py",
+		"/Users/linzhiqiang/Documents/Python/廖雪峰教程练习/decorator_example.py",
+		"/Users/linzhiqiang/Documents/Python/廖雪峰教程练习/mymodule_pratice.py",
+		"/Users/linzhiqiang/Desktop/屏幕快照 2017-06-16 上午11.21.32 (2).png",
+		"/Users/linzhiqiang/Documents/Python/廖雪峰教程练习/fliter_pratice.py",
+		"/Users/linzhiqiang/Documents/Python/廖雪峰教程练习/filter_example.py",
+		"/Users/linzhiqiang/Library/Application Support/Sublime Text 3/Packages/User/untitled.sublime-build",
+		"/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6",
+		"/Users/linzhiqiang/Desktop/pi-home-surveillance/import os,time,subprocess,shlex",
+		"/Users/linzhiqiang/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/linzhiqiang/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/linzhiqiang/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/linzhiqiang/Library/Application Support/Sublime Text 3/Packages/Highlight/SublimeHighlight.sublime-settings",
+		"/Users/linzhiqiang/Library/Application Support/Sublime Text 3/Packages/Highlight/README.md"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 196.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python3.sublime-build",
+	"project": "manage.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
