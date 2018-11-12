@@ -2,9 +2,15 @@ from django.shortcuts import render,get_object_or_404
 from django.shortcuts import redirect
 from . import models
 from . import forms
-
+import hashlib
 # Create your views here.
 
+#密码加密
+def hash_code(s, salt='sitelogin'):
+    h = hashlib.sha256()
+    s += salt
+    h.update(s.encode())
+    return h.hexdigest()
 
 def index(request):
 	return render(request, 'login/index.html')
@@ -19,11 +25,10 @@ def login(request):
 		#前端验证用户名和密码
 		if login_form.is_valid():
 			username = login_form.cleaned_data['username']
-			
 			password = login_form.cleaned_data['password']
 			try:
 				user = models.User.objects.get(name=username)
-				if user.password == password:
+				if user.password == hash_code(password):
 					request.session['is_login'] = True
 					request.session['user_id'] = user.id
 					request.session['user_name'] = user.name
@@ -67,7 +72,7 @@ def register(request):
 
                 new_user = models.User()
                 new_user.name = username
-                new_user.password = password1
+                new_user.password = hash_code(password1)
                 new_user.email = email
                 new_user.sex = sex
                 new_user.save()
